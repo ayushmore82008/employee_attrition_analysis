@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn==1.5.1 
+streamlit
+plotly
+pydeck
+faker
+seaborn
+matplotlib
+joblib
