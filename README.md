@@ -3,7 +3,7 @@
 This project predicts whether an employee is likely to leave or stay in an organization using machine learning techniques.
 
 ## Dataset
-- IBM HR Analytics Employee Attrition & Performance Dataset
+- Employee Attrition & Performance Dataset
 - Link: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 ## Features Used
